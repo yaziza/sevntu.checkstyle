@@ -189,6 +189,7 @@
       <property name="severity" value="warning"/>
       <property name="skippedMethods" value="readObject, writeObject, readObjectNoData, readResolve, writeReplace"/>
     </module>
+    <module name="com.github.sevntu.checkstyle.checks.code.SingleBreakOrContinueCheck" />
 
   </module>
 </module>
